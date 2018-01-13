@@ -1,0 +1,142 @@
+8:178  5:172  Found BIOS RSDP at F0120
+8:178  0:000  Printing ACPI tables from RSDP F0120 ...
+8:178  0:000   F0120: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+8:178  0:000    (Xsdt: DCFFE170, Rsdt: DCFFE0D4)
+8:178  0:000    DCFFE170: 'XSDT', 'QA09   ', Rev: 1, Len: 196
+8:178  0:000    DCFFE0D4: 'RSDT', 'QA09   ', Rev: 1, Len: 116
+8:178  0:000    Tables in Xsdt: 20
+8:178  0:000    0. DCFFB000: 'FACP', 'QA09   ', Rev: 5, Len: 268
+8:178  0:000        (Dsdt: DCFE6000, Facs: DCF9C000, XDsdt: DCFE6000, XFacs: 0)
+8:178  0:000        DCFE6000: 'DSDT', 'HSW-LPT', Rev: 2, Len: 67136
+8:180  0:002        DCF9C000: 'FACS', Ver: 2, Len: 64
+8:180  0:000    1. DCFFD000: 'ASF!', 'QA09   ', Rev: 32, Len: 165
+8:180  0:000    2. DCFFA000: 'HPET', 'QA09   ', Rev: 1, Len: 56
+8:180  0:000    3. DCFF9000: 'LPIT', 'QA09   ', Rev: 1, Len: 148
+8:180  0:000    4. DCFF8000: 'APIC', 'QA09   ', Rev: 1, Len: 152
+8:180  0:000    5. DCFF7000: 'MCFG', 'QA09   ', Rev: 1, Len: 60
+8:180  0:000    6. DCFE5000: 'SSDT', 'sensrhub', Rev: 1, Len: 552
+8:180  0:000    7. DCFE2000: 'SSDT', 'PtidDevc', Rev: 1, Len: 8232
+8:180  0:000    8. DCFE1000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+8:180  0:000    9. DCFE0000: 'SSDT', 'CpuPm', Rev: 1, Len: 2776
+8:180  0:000    10. DCFDC000: 'SSDT', 'SaSsdt ', Rev: 1, Len: 13960
+8:180  0:000    11. DCFDB000: 'UEFI', 'QA09   ', Rev: 1, Len: 66
+8:180  0:000    12. DCF77000: 'MSDM', 'QA09   ', Rev: 3, Len: 85
+8:180  0:000    13. DCFDA000: 'BATB', 'QA09   ', Rev: 1, Len: 70
+8:180  0:000    14. DCFD9000: 'FPDT', 'QA09   ', Rev: 1, Len: 100
+8:180  0:000    15. DCFD8000: 'SLIC', 'QA09   ', Rev: 1, Len: 374
+8:180  0:000    16. DCFD7000: 'UEFI', 'QA09   ', Rev: 1, Len: 678
+8:180  0:000    17. DCFD6000: 'SSDT', 'IsctTabl', Rev: 1, Len: 1473
+8:180  0:000    18. DCFD5000: 'BGRT', 'QA09   ', Rev: 1, Len: 56
+8:180  0:000    19. DCFD4000: 'CSRT', 'QA09   ', Rev: 1, Len: 196
+8:180  0:000    Tables in Rsdt: 20
+8:180  0:000    0. DCFFC000: 'FACP', 'QA09   ', Rev: 1, Len: 116
+8:180  0:000        (Dsdt: DCFE6000, Facs: DCF9C000)
+8:180  0:000        DCFE6000: 'DSDT', 'HSW-LPT', Rev: 2, Len: 67136
+8:182  0:002        DCF9C000: 'FACS', Ver: 2, Len: 64
+8:182  0:000    1. DCFFD000: 'ASF!', 'QA09   ', Rev: 32, Len: 165
+8:182  0:000    2. DCFFA000: 'HPET', 'QA09   ', Rev: 1, Len: 56
+8:182  0:000    3. DCFF9000: 'LPIT', 'QA09   ', Rev: 1, Len: 148
+8:182  0:000    4. DCFF8000: 'APIC', 'QA09   ', Rev: 1, Len: 152
+8:182  0:000    5. DCFF7000: 'MCFG', 'QA09   ', Rev: 1, Len: 60
+8:182  0:000    6. DCFE5000: 'SSDT', 'sensrhub', Rev: 1, Len: 552
+8:182  0:000    7. DCFE2000: 'SSDT', 'PtidDevc', Rev: 1, Len: 8232
+8:182  0:000    8. DCFE1000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+8:182  0:000    9. DCFE0000: 'SSDT', 'CpuPm', Rev: 1, Len: 2776
+8:182  0:000    10. DCFDC000: 'SSDT', 'SaSsdt ', Rev: 1, Len: 13960
+8:182  0:000    11. DCFDB000: 'UEFI', 'QA09   ', Rev: 1, Len: 66
+8:182  0:000    12. DCF77000: 'MSDM', 'QA09   ', Rev: 3, Len: 85
+8:182  0:000    13. DCFDA000: 'BATB', 'QA09   ', Rev: 1, Len: 70
+8:182  0:000    14. DCFD9000: 'FPDT', 'QA09   ', Rev: 1, Len: 100
+8:182  0:000    15. DCFD8000: 'SLIC', 'QA09   ', Rev: 1, Len: 374
+8:182  0:000    16. DCFD7000: 'UEFI', 'QA09   ', Rev: 1, Len: 678
+8:182  0:000    17. DCFD6000: 'SSDT', 'IsctTabl', Rev: 1, Len: 1473
+8:182  0:000    18. DCFD5000: 'BGRT', 'QA09   ', Rev: 1, Len: 56
+8:182  0:000    19. DCFD4000: 'CSRT', 'QA09   ', Rev: 1, Len: 196
+8:182  0:000  Found UEFI Acpi 2.0 RSDP at DCFFE014
+8:182  0:000  Saving ACPI tables from RSDP DCFFE014 to EFI\CLOVER\ACPI\origin ...
+8:182  0:000   DCFFE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+8:193  0:010    (Xsdt: DCFFE170, Rsdt: DCFFE0D4)
+8:193  0:000    DCFFE170: 'XSDT', 'QA09   ', Rev: 1, Len: 196 -> XSDT.aml
+8:205  0:012    DCFFE0D4: 'RSDT', 'QA09   ', Rev: 1, Len: 116 -> RSDT.aml
+8:214  0:008    Tables in Xsdt: 20
+8:214  0:000    0. DCFFB000: 'FACP', 'QA09   ', Rev: 5, Len: 268 -> FACP.aml
+8:228  0:014        (Dsdt: DCFE6000, Facs: DCF9C000, XDsdt: DCFE6000, XFacs: 0)
+8:228  0:000        DCFE6000: 'DSDT', 'HSW-LPT', Rev: 2, Len: 67136 -> DSDT.aml
+8:240  0:012        DCF9C000: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+8:251  0:010    1. DCFFD000: 'ASF!', 'QA09   ', Rev: 32, Len: 165 -> ASF!.aml
+8:263  0:012    2. DCFFA000: 'HPET', 'QA09   ', Rev: 1, Len: 56 -> HPET.aml
+8:272  0:008    3. DCFF9000: 'LPIT', 'QA09   ', Rev: 1, Len: 148 -> LPIT.aml
+8:287  0:014    4. DCFF8000: 'APIC', 'QA09   ', Rev: 1, Len: 152 -> APIC.aml
+8:297  0:009    5. DCFF7000: 'MCFG', 'QA09   ', Rev: 1, Len: 60 -> MCFG.aml
+8:309  0:012    6. DCFE5000: 'SSDT', 'sensrhub', Rev: 1, Len: 552 -> SSDT-0.aml
+8:323  0:013    7. DCFE2000: 'SSDT', 'PtidDevc', Rev: 1, Len: 8232 -> SSDT-1.aml
+8:332  0:009    8. DCFE1000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337 -> SSDT-2.aml
+8:347  0:014    9. DCFE0000: 'SSDT', 'CpuPm', Rev: 1, Len: 2776
+ Found hidden SSDT 4 pcs
+8:347  0:000        * CF0E4A98: '#', '@@@@@@@@', Rev: 64, Len: 1077952512  16 23 00 0C 00 40 40 40 40 40 40 40 40 40 40 40       * DCEE3618: 'SSDT', 'ApIst', Rev: 1, Len: 1450  53 53 44 54 AA 05 00 00 01 D3 50 6D 52 65 66 00 Internal length = 1450 -> SSDT-4x.aml
+8:360  0:013        * DCEE3C18: 'SSDT', 'Cpu0Cst', Rev: 1, Len: 979  53 53 44 54 D3 03 00 00 01 B3 50 6D 52 65 66 00 Internal length = 979 -> SSDT-5x.aml
+8:370  0:009        * DCEE2D98: 'SSDT', 'ApCst', Rev: 1, Len: 281  53 53 44 54 19 01 00 00 01 EF 50 6D 52 65 66 00 Internal length = 281 -> SSDT-6x.aml
+8:384  0:013   -> SSDT-3.aml
+8:393  0:009    10. DCFDC000: 'SSDT', 'SaSsdt ', Rev: 1, Len: 13960 -> SSDT-7.aml
+8:406  0:012    11. DCFDB000: 'UEFI', 'QA09   ', Rev: 1, Len: 66 -> UEFI.aml
+8:420  0:013    12. DCF77000: 'MSDM', 'QA09   ', Rev: 3, Len: 85 -> MSDM.aml
+8:429  0:009    13. DCFDA000: 'BATB', 'QA09   ', Rev: 1, Len: 70 -> BATB.aml
+8:444  0:014    14. DCFD9000: 'FPDT', 'QA09   ', Rev: 1, Len: 100 -> FPDT.aml
+8:451  0:006    15. DCFD8000: 'SLIC', 'QA09   ', Rev: 1, Len: 374 -> SLIC.aml
+8:466  0:015    16. DCFD7000: 'UEFI', 'QA09   ', Rev: 1, Len: 678 -> UEFI.aml
+8:475  0:009    17. DCFD6000: 'SSDT', 'IsctTabl', Rev: 1, Len: 1473 -> SSDT-8.aml
+8:488  0:012    18. DCFD5000: 'BGRT', 'QA09   ', Rev: 1, Len: 56 -> BGRT.aml
+8:499  0:011    19. DCFD4000: 'CSRT', 'QA09   ', Rev: 1, Len: 196 -> CSRT.aml
+8:511  0:011    Tables in Rsdt: 20
+8:511  0:000    0. DCFFC000: 'FACP', 'QA09   ', Rev: 1, Len: 116 -> RSDT-FACP.aml
+8:524  0:012        (Dsdt: DCFE6000, Facs: DCF9C000)
+8:524  0:000        DCFE6000: 'DSDT', 'HSW-LPT', Rev: 2, Len: 67136
+8:526  0:002        DCF9C000: 'FACS', Ver: 2, Len: 64
+8:526  0:000    1. DCFFD000: 'ASF!', 'QA09   ', Rev: 32, Len: 165
+8:526  0:000    2. DCFFA000: 'HPET', 'QA09   ', Rev: 1, Len: 56
+8:526  0:000    3. DCFF9000: 'LPIT', 'QA09   ', Rev: 1, Len: 148
+8:526  0:000    4. DCFF8000: 'APIC', 'QA09   ', Rev: 1, Len: 152
+8:526  0:000    5. DCFF7000: 'MCFG', 'QA09   ', Rev: 1, Len: 60
+8:526  0:000    6. DCFE5000: 'SSDT', 'sensrhub', Rev: 1, Len: 552
+8:526  0:000    7. DCFE2000: 'SSDT', 'PtidDevc', Rev: 1, Len: 8232
+8:526  0:000    8. DCFE1000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+8:526  0:000    9. DCFE0000: 'SSDT', 'CpuPm', Rev: 1, Len: 2776
+8:526  0:000    10. DCFDC000: 'SSDT', 'SaSsdt ', Rev: 1, Len: 13960
+8:526  0:000    11. DCFDB000: 'UEFI', 'QA09   ', Rev: 1, Len: 66
+8:526  0:000    12. DCF77000: 'MSDM', 'QA09   ', Rev: 3, Len: 85
+8:526  0:000    13. DCFDA000: 'BATB', 'QA09   ', Rev: 1, Len: 70
+8:526  0:000    14. DCFD9000: 'FPDT', 'QA09   ', Rev: 1, Len: 100
+8:526  0:000    15. DCFD8000: 'SLIC', 'QA09   ', Rev: 1, Len: 374
+8:526  0:000    16. DCFD7000: 'UEFI', 'QA09   ', Rev: 1, Len: 678
+8:526  0:000    17. DCFD6000: 'SSDT', 'IsctTabl', Rev: 1, Len: 1473
+8:526  0:000    18. DCFD5000: 'BGRT', 'QA09   ', Rev: 1, Len: 56
+8:526  0:000    19. DCFD4000: 'CSRT', 'QA09   ', Rev: 1, Len: 196
+8:526  0:000  Found UEFI Acpi 1.0 RSDP at DCFFE000
+8:526  0:000  Printing ACPI tables from RSDP DCFFE000 ...
+8:526  0:000   DCFFE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+8:526  0:000    (Rsdt: DCFFE038)
+8:526  0:000    DCFFE038: 'RSDT', 'QA09   ', Rev: 1, Len: 116
+8:526  0:000    Tables in Rsdt: 20
+8:526  0:000    0. DCFFC000: 'FACP', 'QA09   ', Rev: 1, Len: 116
+8:526  0:000        (Dsdt: DCFE6000, Facs: DCF9C000)
+8:526  0:000        DCFE6000: 'DSDT', 'HSW-LPT', Rev: 2, Len: 67136
+8:528  0:002        DCF9C000: 'FACS', Ver: 2, Len: 64
+8:528  0:000    1. DCFFD000: 'ASF!', 'QA09   ', Rev: 32, Len: 165
+8:528  0:000    2. DCFFA000: 'HPET', 'QA09   ', Rev: 1, Len: 56
+8:528  0:000    3. DCFF9000: 'LPIT', 'QA09   ', Rev: 1, Len: 148
+8:528  0:000    4. DCFF8000: 'APIC', 'QA09   ', Rev: 1, Len: 152
+8:528  0:000    5. DCFF7000: 'MCFG', 'QA09   ', Rev: 1, Len: 60
+8:528  0:000    6. DCFE5000: 'SSDT', 'sensrhub', Rev: 1, Len: 552
+8:528  0:000    7. DCFE2000: 'SSDT', 'PtidDevc', Rev: 1, Len: 8232
+8:528  0:000    8. DCFE1000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+8:528  0:000    9. DCFE0000: 'SSDT', 'CpuPm', Rev: 1, Len: 2776
+8:528  0:000    10. DCFDC000: 'SSDT', 'SaSsdt ', Rev: 1, Len: 13960
+8:528  0:000    11. DCFDB000: 'UEFI', 'QA09   ', Rev: 1, Len: 66
+8:528  0:000    12. DCF77000: 'MSDM', 'QA09   ', Rev: 3, Len: 85
+8:528  0:000    13. DCFDA000: 'BATB', 'QA09   ', Rev: 1, Len: 70
+8:528  0:000    14. DCFD9000: 'FPDT', 'QA09   ', Rev: 1, Len: 100
+8:528  0:000    15. DCFD8000: 'SLIC', 'QA09   ', Rev: 1, Len: 374
+8:528  0:000    16. DCFD7000: 'UEFI', 'QA09   ', Rev: 1, Len: 678
+8:528  0:000    17. DCFD6000: 'SSDT', 'IsctTabl', Rev: 1, Len: 1473
+8:528  0:000    18. DCFD5000: 'BGRT', 'QA09   ', Rev: 1, Len: 56
+8:528  0:000    19. DCFD4000: 'CSRT', 'QA09   ', Rev: 1, Len: 196
